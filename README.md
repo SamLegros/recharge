@@ -1,6 +1,7 @@
 # recharge
 RTA 958 Final Project
 <br>
+Due Date: December 17, 2015
 #### Project Members
 <ul>
 <li>Joelle Dell'Erede</li>
