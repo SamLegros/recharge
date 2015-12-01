@@ -1,7 +1,7 @@
 # recharge
 RTA 958 Final Project
 <br>
-### Project Members
+#### Project Members
 <ul>
 <li>Joelle Dell'Erede</li>
 <li>Caylee Kalisky</li>
